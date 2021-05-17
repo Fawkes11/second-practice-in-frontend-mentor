@@ -50,7 +50,7 @@ body{
 }
 .back-image{
     
-    background-image: url(/images/image-header-desktop.jpg);
+    background-image: url(./images/image-header-desktop.jpg);
     height: 100%;
     width: 540px;
 }
@@ -93,7 +93,7 @@ body{
         margin: 30px;
     }
     .back-image{
-        background-image: url(/images/image-header-mobile.jpg);
+        background-image: url(./images/image-header-mobile.jpg);
         background-size: contain;
         background-repeat: no-repeat;
         width: 100%;
